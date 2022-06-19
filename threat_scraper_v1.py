@@ -1,4 +1,4 @@
-# imports IOCs from Threatfox, URLScan.io, and PhishStats.info for processing in Streamline, by Nur Loyan
+# imports IOCs from Threatfox, URLScan.io, and PhishStats.info for processing by Nur Loyan
 
 import requests
 import sys
