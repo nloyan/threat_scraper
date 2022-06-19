@@ -1,5 +1,5 @@
 # Threat Scraper v1
-Scrapes malicious and phishing URLs from variety of OSINT. 
+Scrapes malicious/phishing domains from a variety of OSINT. 
 
 very simple script to pulls and prints detected phishing domains from phishstats, urlscan.io, threatfox and other ONINSTs.
 
