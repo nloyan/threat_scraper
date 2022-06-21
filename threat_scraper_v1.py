@@ -1,6 +1,7 @@
-# imports IOCs from Threatfox, URLScan.io, and PhishStats.info for processing by Nur Loyan
+# imports IOCs from Threatfox, URLScan.io, and PhishStats.info for processing in xxxxxx, by Nur Loyan
 
 import requests
+import sys
 
 # API URLs
 ps_url = "https://phishstats.info:2096/api/phishing?_where=(score,gt,5)&_size=100&page_4&_sort=-date"
